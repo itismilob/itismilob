@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Please Visit my BLOG - [itismilob](http://itismilob.github.io)
+### Please visit my BLOG - [itismilob](http://itismilob.github.io)
 <!--
 **itismilob/itismilob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
